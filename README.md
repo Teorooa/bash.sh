@@ -1,1 +1,5 @@
-# bash.sh
+#!bin/bash
+
+pkg insta
+
+
